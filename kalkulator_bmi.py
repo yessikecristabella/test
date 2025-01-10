@@ -20,7 +20,7 @@ print("nilai bmi normal adalah 18.5 kg/m^2 - 25kg/m^2")
 print(f"Berat badan ideal anda adalah dalam rentang "
       f"{berat_badan_ideal['bawah']:.2f} kg- {berat_badan_ideal['atas']:.2f} kg")
 
-print ("Terima Kasih sudah menggunakan program ini")
-#testt
+print ("Terima sudah menggunakan program ini")
+
 
 
